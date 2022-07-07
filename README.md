@@ -6,4 +6,6 @@ Index.html Style.css
 
 ## Screenshots for the webpage
 
-![Alt text](relative/assets/screenshots/webpage-screenshot.png?raw=true)
+![Website Screenshot](./Develop/assets/screenshots/webpage-screenshot.png)
+![Website Screenshot](./Develop/assets/screenshots/webpage-screenshot-2.png)
+![Website Screenshot](./Develop/assets/screenshots/webpage-screenshot-3.png)
