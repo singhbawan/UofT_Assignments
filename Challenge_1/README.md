@@ -6,6 +6,6 @@ Index.html Style.css
 
 ## Screenshots for the webpage
 
-![Website Screenshot](./Challenge_1/assets/screenshots/webpage-screenshot.png)
-![Website Screenshot](./Challenge_1/assets/screenshots/webpage-screenshot-2.png)
-![Website Screenshot](./Challenge_1/assets/screenshots/webpage-screenshot-3.png)
+![Website Screenshot](./assets/screenshots/webpage-screenshot.png)
+![Website Screenshot](./assets/screenshots/webpage-screenshot-2.png)
+![Website Screenshot](./assets/screenshots/webpage-screenshot-3.png)
